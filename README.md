@@ -1,3 +1,3 @@
 # Pushing-codeto-CF
 
-Refer Wiki for stops
+Refer Wiki for steps
